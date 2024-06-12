@@ -1,1 +1,5 @@
-# AceInternBatch.RestApi
+- ASP.NET COre Web API
+   -C# Database
+        -Ado.Net
+        -Dapper
+        -EFCore
